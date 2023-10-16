@@ -1,0 +1,38 @@
+/* @media screen and (max-width: 900px) {
+  .container__small-card {
+    width: 350px;
+    margin-bottom:  15px;
+    display: inline;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .container__small-card {
+    width: 50px;
+    margin-bottom:  15px;
+    display: inline;
+
+  }
+
+}
+
+
+
+
+
+
+.small-card__photo > img {
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.small-card__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container__small-card__separator{
+  margin-top: 10px;
+} */
